@@ -1,5 +1,5 @@
 # smart-Door-Alarm-System
-# Smart Door Alarm System
+
 
 ## Project purpose
 This project demonstrates a simple IoT-enabled door alarm system using an Arduino Uno, PIR sensor, reed module, an LED alarm indicator, and an ESP-01S Wi-Fi module acting as a cloud client. The design follows an **Edge Logic with API Integration** approach: the Arduino performs local sensor processing and immediate alarm control, and the ESP-01S handles cloud notifications (IFTTT or MQTT).
