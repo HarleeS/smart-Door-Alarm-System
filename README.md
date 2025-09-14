@@ -1,4 +1,4 @@
-# smart-Door-Alarm-System
+# Smart-Door-Alarm-System
 
 
 ## Project purpose
